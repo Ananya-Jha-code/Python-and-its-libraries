@@ -1,6 +1,9 @@
 # Python and its libraries
 ## Links
-- [PPT]
+- [PPT](https://docs.google.com/presentation/d/17aMP5hqV1ZMo63H-u34xGxzTeuugLqpbiYCqNRD3-dU/edit?usp=sharing)
+- [Pandas tutorial notebook](https://github.com/KeithGalli/pandas/blob/master/Pandas%20Data%20Science%20Tutorial.ipynb)
+- [Matplotlib tutorial notebook](https://github.com/KeithGalli/matplotlib_tutorial/blob/master/Matplotlib%20Tutorial.ipynb)
+
 ### List of Modules and Documentations
 
 #### Web:
